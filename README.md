@@ -1,6 +1,6 @@
 # Batalha-Naval
 
-  🚢 A08: Projeto Batalha Naval
+  🚢: Projeto Batalha Naval
 Vamos construir um jogo utilizando Matrizes (Grids). O objetivo é criar um tabuleiro de água onde um navio está escondido. O jogador deve adivinhar a coordenada correta para vencer.
 
 Usaremos também conceitos de listas (arrays), loops, condicionais e entrada de dados (input) para fazer isso.
